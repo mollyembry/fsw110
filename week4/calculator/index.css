@@ -1,0 +1,52 @@
+#addition { background-color: #7eda81;
+    border-style:outset ;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    width: 550px;
+ }
+    
+
+#subtraction {
+     background-color: cornflowerblue;
+     border-style: outset;
+     border-radius: 10px;
+     color: white;
+     padding: 20px 35px;
+     text-align: center;
+     display: inline-block;
+     font-size: 20px;
+     margin: 5px 2px;
+     width:550px;
+  }
+   
+#multiplication {
+    background-color: rgb(198, 136, 223);
+    border-style: outset;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 2px;
+    width: 550px;
+ }
+#calculated {
+    background-color: rgb(216, 137, 144);
+    border-style: outset;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 2px;
+    width: 550px;
+}
+
+
